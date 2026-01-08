@@ -7,9 +7,13 @@ body {
 }
 
 h1 {
-    color: #007bff;
+    color: #093a6e;
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 p {
     font-size: 18px;
+    
 }
